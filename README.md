@@ -1,4 +1,1 @@
-# hello-world
-Hello World
-
-Ket is interested in Python programming.
+https://github.com/kething/hello-world/index.html
