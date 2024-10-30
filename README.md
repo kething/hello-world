@@ -1,1 +1,2 @@
-https://github.com/kething/hello-world/index.html
+https://kething.github.io/hello-world/index.html
+
